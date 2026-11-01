@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 170" width="900" height="170" role="img" aria-label="KleineStar — HarmonyOS 应用与嵌入式开发">
+  <rect x="4" y="64" width="5" height="60" rx="3" fill="#d15711"/>
+  <text x="28" y="98" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="46" font-weight="700" letter-spacing="-1" fill="#1f2328">KleineStar</text>
+  <text x="28" y="124" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="600" letter-spacing="2.4" fill="#6e7781">HARMONYOS &#183; ARKTS &#183; EMBEDDED C</text>
+  <text x="896" y="124" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="600" letter-spacing="2.4" fill="#6e7781">WUHAN, CN</text>
+  <path d="M 846 33.0 Q 849.7 46.3 863 50 Q 849.7 53.7 846 67.0 Q 842.3 53.7 829 50 Q 842.3 46.3 846 33.0 Z" fill="#d15711"/>
+  <path d="M 884 80.0 Q 885.8 86.2 892 88 Q 885.8 89.8 884 96.0 Q 882.2 89.8 876 88 Q 882.2 86.2 884 80.0 Z" fill="#d15711" opacity="0.55"/>
+</svg>
