@@ -29,6 +29,12 @@ HarmonyOS 应用 + WS63 固件，端上一套、板子上一套。近期在把�
 
 <sub>C · LiteOS-M · GPIO / UART / I2C · MQTT · EMQX · Open-Meteo</sub>
 
+### HongYuanShe
+
+校园社区客户端，纯端侧。ArkTS 写界面，数据全落在 RelationalStore 的四张表里，Preferences 只存一个 userId。列表走 LazyForEach + IDataSource，点赞去重交给 UNIQUE 索引，不在代码里判断。
+
+<sub>ArkTS · ArkUI · RelationalStore · Preferences · Navigation</sub>
+
 ### April-arkts
 
 ArkTS 起步时一页页敲下来的练手工程：语法、声明式 UI、页面路由、列表渲染、表单与弹窗。
